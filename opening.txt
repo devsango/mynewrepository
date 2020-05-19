@@ -1,0 +1,50 @@
+Cloud Infrastructure Engineer
+Location: Novi, MI- United States
+Job ID: 20WD40027
+
+Position Overview
+We’re growing our Cloud Infrastructure Engineering team within the Enterprise IT organization. This team leverages Software Engineering and DevOps principles to build the foundations for the company’s business critical systems and processes, utilizing “cloud-first” platforms and services. Our engineering culture will empower you to make effective decisions, work collaboratively and take accountability for engineering projects at the core of the company and the leading edge of the latest industry technology trends.
+
+The team is seeking a Cloud Infrastructure Engineer within our IT Cloud Infrastructure Engineering group to work in supporting our Amazon Web Services (AWS) environment. The ideal candidate is comfortable wearing multiple hats: diplomat, coach, reporter, translator, firefighter.
+
+Novi continues to be one of the fastest growing cities in Michigan and ranks among the top of its neighboring county communities for research, technology and service companies. The city is located approximately 25 miles northwest of the center of Detroit, and 25 miles from of the center of Ann Arbor.
+
+Responsibilities
+Configure and implement the public cloud environment for enterprise and business applications
+Build and extend infrastructure automations for enterprise and business applications in the public cloud environment
+Refactor and migrate enterprise and business applications running on-premise to the public cloud
+Leverage tools to ensure configuration state is consistent across multiple systems that can be tracked, changed and updated in an automated way for security and vulnerability protection through tools like chef
+Troubleshoot and solution issues in the AWS environment
+Interact with enterprise and business application engineering teams to understand requests/issues, establish clear expectations, and provide effective communication
+Design and build automation solutions to reduce manual efforts and increase team efficiency
+
+Minimum Qualifications
+Demonstrable knowledge of AWS IaC (Infrastructure-as-Code) and DevOps expertise.
+Comfortable performing requirements analysis, interfacing with stakeholders of various levels and documenting solutions.
+Ability to articulate technical topics to non-technical audiences both in writing, in diagrams and person.
+Energetic team player who works well across boundaries and readily adapts to change and enjoys rapid development.
+Confident of your skills, abilities and willing to share what you know, while learning from others.
+Ability to think and act with an “automation” mindset to problem solving.
+Deals well with ambiguous or undefined problems
+Ability to think abstractly and guide others
+Strong written and oral communication skills
+1+ years of hands-on experience with AWS (CloudFormation, EC2, Lambda, S3, DynamoDB, RDS, VPC, Route 53, CloudWatch, CloudTrail, and IAM)
+1+ years of development/automation experience (with tools such as Python, Node.js, Go, Rest APIs, etc.)
+Literacy with Agile practices and tools (such as Jira, Kanban, etc.)
+Bachelor’s Degree or College Diploma in Computer Science, Information Systems or equivalent experience
+While not required, AWS Certification is desirable
+Join us in Novi, Michigan!
+
+About Autodesk
+With Autodesk software, you have the power to Make Anything. The future of making is here, bringing with it radical changes in the way things are designed, made, and used. It's disrupting every industry: architecture, engineering, and construction; manufacturing; and media and entertainment. With the right knowledge and tools, this disruption is your opportunity. Our software is used by everyone - from design professionals, engineers and architects to digital scientists, students and hobbyists. We constantly explore new ways to integrate all dimensions of diversity across our employees, customers, partners, and communities. Our ultimate goal is to expand opportunities for anyone to imagine, design, and make a better world.
+ 
+#LI-POST
+
+
+
+Designed automation solutions to reduce manual efforts and increase team efficiency.
+
+
+Driven projects that improve support-related processes and customer technical support experience.
+
+Participated in the 24*7 on-call support rotation to provide escalation coverage to Elite customers including after-hours support
